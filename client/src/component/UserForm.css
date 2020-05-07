@@ -1,0 +1,9 @@
+.user-form {
+    margin-top: 50px;
+}
+label {
+    font-weight: bold;
+}
+.error {
+    color: red;
+}
